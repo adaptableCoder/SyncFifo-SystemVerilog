@@ -46,4 +46,4 @@ If you change the dump file name in `tb.sv`, use that same name here.
 
 Add your waveform image here:
 
-![Waveform](waveform.png)
+![Waveform](./Waveform.png)
